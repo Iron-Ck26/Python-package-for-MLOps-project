@@ -5,7 +5,7 @@ from pymongo.mongo_client import MongoClient
 import json
 from ensure import ensure_annotations
 
-class mongo_operation:
+class mongo_operation:      # class name - mongo_operation
     __collection = None  # Here I have created a private/protected variable
     __database = None
     
