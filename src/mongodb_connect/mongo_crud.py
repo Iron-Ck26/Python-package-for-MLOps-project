@@ -3,7 +3,6 @@ import pandas as pd
 from pymongo.mongo_client import MongoClient
 import json
 
-
 class MongoOperation:
     __collection = None
     __database = None
