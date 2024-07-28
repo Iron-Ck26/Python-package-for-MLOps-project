@@ -21,6 +21,3 @@ def test_create_mongo_client():
     client = mongo_op.create_mongo_client()
     
     assert client is not None
-    # You might want to add more specific assertions about the client
-
-# Add more tests as needed
