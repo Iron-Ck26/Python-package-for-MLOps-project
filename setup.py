@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.4"
 REPO_NAME = "Python-package-for-MLOps-project"    # Git repo name
-PKG_NAME= "Python_mongoDB_Connect"                # Package name for pipy page
+PKG_NAME= "Python_mongoDB_Connect1"                # Package name for pipy page
 AUTHOR_USER_NAME = "Chakrapani26"                 # Git user name
 AUTHOR_EMAIL = "chakrapaniwaghmode81@gmail.com"   # Git mail
 
