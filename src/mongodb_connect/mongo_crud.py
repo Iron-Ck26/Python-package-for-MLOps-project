@@ -60,3 +60,4 @@ class mongo_operation:
         collection = self.create_collection(collection_name)
         result = collection.insert_many(datajson)
         return result
+
